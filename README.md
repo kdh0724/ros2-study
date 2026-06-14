@@ -1,4 +1,4 @@
-# 🤖 ROS 2 Study
+# ROS 2 Study
 
 > ROS 2 + Gazebo 시뮬레이터 학습 레포입니다.
 
